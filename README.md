@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Perry-Martinez
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning how to program
-- 💞️ I’m looking to collaborate on programs
-- 📫 How to reach me: email or phone
-- ⚡ Fun fact: I love programming
+- 👀 I’m interested in programming and connecting wiith others 
+- 📫 How to reach me: pemartinez@my365.bellevue.edu
 
 <!---
 Perry-Martinez/Perry-Martinez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
